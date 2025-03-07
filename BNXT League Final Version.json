@@ -26,3 +26,29 @@
     }
   ]
 }
+{"id":1,"type":"gameAttributes","season":2035,"phase":0,"info":{"numGames":50}},
+ {
+      "type": "expansionDraft",
+      "season": 2035,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Luik",
+            "name": "Warriors",
+            "pop": 1.5,
+            "colors": [
+              "#009e87",
+              "#541f3e",
+              "#ffffff"
+            ],
+            "abbrev": "WAR",
+            "imgURL": "",
+            "cid": 0,
+            "did": 2
+          }
+        ]
+      }
+    }
+  ]
+}
